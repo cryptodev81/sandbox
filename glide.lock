@@ -165,7 +165,8 @@ imports:
   - internal/json
   - internal/sasl
   - internal/scram
-- name: github.com/tildeleb/hashland
+- name: leb.io/hashland
+  repo: github.com/tildeleb/hashland
   version: 07375b562deaa8d6891f9618a04e94a0b98e2ee7
   subpackages:
   - keccakpg
